@@ -23,11 +23,11 @@ The Tableau dashboard visualizes the decline in percentages over time using a co
 
 ### Dashboard Snapshot
 
-![Dashboard Snapshot](path_to_your_image.png)
+![Dashboard Snapshot](Snapshot.png)
 
 ### Dashboard Link
 
-You can interact with the Tableau dashboard using the following [link](your_tableau_dashboard_link).
+You can interact with the Tableau dashboard using the following [link](https://public.tableau.com/views/FrenchpeoplearelosingconfidenceintheParisOlympicsMOM2024Week21/Paris_Olympics?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
 
 ## Files in the Repository
 
